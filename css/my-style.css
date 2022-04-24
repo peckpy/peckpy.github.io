@@ -1,0 +1,38 @@
+.space{
+	height: 10px;
+}
+
+input{
+	width: 70%;
+	padding: 12px;
+	margin: 8px;
+	box-sizing: border-box;
+}
+
+.com-img{
+	height:  200px;
+	width:  200px;
+	border-radius: 20%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+p{
+	font-family: monospace;
+	color: rosybrown;
+}
+
+h4{
+	font-family: monospace;
+	color: sandybrown;
+}
+
+li{
+	font-family: monospace;
+	color: rosybrown;
+}
+
+.grey-font{
+	color: dimgrey;
+}
