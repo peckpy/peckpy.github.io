@@ -1,0 +1,36 @@
+h2{
+	color: hotpink;
+	font-size: 60px;
+}
+
+p{
+	color: darkseagreen;
+	font-family: Verdana;
+}
+
+li{
+	color: rebeccapurple;
+	font-style: italic;
+}
+
+img{
+	height:  400px;
+	width:  400px;
+	border-radius: 100%;
+}
+
+body{
+	background-color: lavenderblush;
+}
+
+input{
+	color: red;
+}
+
+.style100{
+	color: black;
+}
+
+li.different-font{
+	font-size: 60px;
+}
