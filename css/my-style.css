@@ -2,10 +2,10 @@
 	height: 10px;
 }
 
-input{
-	width: 70%;
+.com-input{
+	width: 200px;
 	padding: 12px;
-	margin: 8px;
+	margin: 20px;
 	box-sizing: border-box;
 }
 
@@ -35,4 +35,9 @@ li{
 
 .grey-font{
 	color: dimgrey;
+}
+
+
+textarea{
+	height: 300px;
 }
